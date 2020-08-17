@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_restricted_caller_access">
+    <sys_restricted_caller_access action="INSERT_OR_UPDATE">
+        <operation>read</operation>
+        <source>f8168600eb3311001c13abf11206fe55</source>
+        <source_scope display_value="Global">global</source_scope>
+        <source_table>sys_script_include</source_table>
+        <source_type>2</source_type>
+        <status>2</status>
+        <sys_class_name>sys_restricted_caller_access</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-08-17 17:24:45</sys_created_on>
+        <sys_id>f005a273dbe61010598bb298f49619db</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>global</sys_name>
+        <sys_package display_value="test" source="x_87047_test">42a1ea7fdba61010598bb298f4961997</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="test">42a1ea7fdba61010598bb298f4961997</sys_scope>
+        <sys_update_name>sys_restricted_caller_access_f005a273dbe61010598bb298f49619db</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-08-17 17:24:45</sys_updated_on>
+        <target>42a1ea7fdba61010598bb298f4961997</target>
+        <target_scope display_value="test">42a1ea7fdba61010598bb298f4961997</target_scope>
+        <target_table>sys_app</target_table>
+        <target_type>3</target_type>
+    </sys_restricted_caller_access>
+</record_update>
